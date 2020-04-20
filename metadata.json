@@ -1,0 +1,10 @@
+{
+    "description"   : "mi primera extension",
+    "name"          : "Probando GNOME shell",
+    "shell-version" : [
+        "3.36.1"
+    ],
+    "url"           : "",
+    "uuid"          : "alan@cienegaserrano.com",
+    "version"       : "0.0"
+}

@@ -1,0 +1,7 @@
+.examplePanelText{
+    color: rgba(255, 255, 255, 0.753);
+}
+
+.examplePanelText:hover{
+    color: white;
+}
